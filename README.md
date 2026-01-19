@@ -6,61 +6,61 @@ Employee attrition is a critical challenge for organizations as it directly impa
 
 # Objectives:
 
-Analyze employee attrition trends across departments and roles
-Identify key factors influencing employee turnover
-Compare attrition based on demographics, job roles, and performance metrics
-Provide data-driven insights to reduce attrition rates.
+*Analyze employee attrition trends across departments and roles
+*Identify key factors influencing employee turnover
+*Compare attrition based on demographics, job roles, and performance metrics
+*Provide data-driven insights to reduce attrition rates.
 
 # Dataset Description:
 
 The dataset contains employee-related information such as:
-Employee ID
-Age
-Gender
-Department
-Job Role
-Monthly Income
-Years at Company
-Job Satisfaction
-Work-Life Balance
-Performance Rating
-Attrition (Yes/No)
+*Employee ID
+*Age
+*Gender
+*Department
+*Job Role
+*Monthly Income
+*Years at Company
+*Job Satisfaction
+*Work-Life Balance
+*Performance Rating
+*Attrition (Yes/No)
 
 # Tools & Technologies Used:
 
-Excel – Data cleaning and initial analysis
-Power BI / Tableau – Interactive dashboards and visualizations
-Python (optional) – Exploratory data analysis and statistical insights
+1. Excel – Data cleaning and initial analysis
+2. Power BI / Tableau – Interactive dashboards and visualizations
+3. Python (optional) – Exploratory data analysis and statistical insights
 
 # Key Analysis Performed:
 
-Attrition rate calculation
-Department-wise and role-wise attrition analysis
-Impact of salary, job satisfaction, and work-life balance on attrition
-Attrition trends based on age, tenure, and experience
-Correlation analysis between performance and attrition
+1. Attrition rate calculation
+2. Department-wise and role-wise attrition analysis
+3. Impact of salary, job satisfaction, and work-life balance on attrition
+4. Attrition trends based on age, tenure, and experience
+5. Correlation analysis between performance and attrition
 
 # Dashboard & Visualizations:
 
-Overall attrition rate
-Attrition by department and job role
-Attrition by age group and experience level
-Salary vs attrition comparison
-Job satisfaction and work-life balance impact
+*Overall attrition rate
+*Attrition by department and job role
+*Attrition by age group and experience level
+*Salary vs attrition comparison
+*Job satisfaction and work-life balance impact
 
 # Key Insights:
 
-Higher attrition observed among employees with low job satisfaction
-Employees with fewer years at the company are more likely to leave
-Certain departments and job roles show consistently higher attrition
-Compensation and work-life balance significantly influence employee retention
+1.Higher attrition observed among employees with low job satisfaction
+2.Employees with fewer years at the company are more likely to leave
+3.Certain departments and job roles show consistently higher attrition
+4.Compensation and work-life balance significantly influence employee retention
 
 # Recommendations:
 
-Improve employee engagement and satisfaction programs
-Introduce competitive compensation and benefits
-Focus on career growth opportunities for early-tenure employees
-Strengthen work-life balance initiatives
+1.Improve employee engagement and satisfaction programs
+2.Introduce competitive compensation and benefits
+3.Focus on career growth opportunities for early-tenure employees
+4.Strengthen work-life balance initiatives
 
 # Conclusion:
 
